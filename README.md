@@ -13,21 +13,21 @@ test abc
 
 ### cosmichouse - Level 5
 
-[View my contribution log](https://beta.aviyel.com/user/afk-z10/github-readme)
+[View my contribution log](https://beta.aviyel.com/user/afk-z10/110/rewards)
 
 ![cosmichouse rewards](https://aviyel-share-image.vercel.app/api/afk-z10/110)
 
 
 ### AFK test 0 - Level 2
 
-[View my contribution log](https://beta.aviyel.com/user/afk-z10/github-readme)
+[View my contribution log](https://beta.aviyel.com/user/afk-z10/1969/rewards)
 
 ![AFK test 0 rewards](https://aviyel-share-image.vercel.app/api/afk-z10/1969)
 
 
 ### AFK test 1 - Level 5
 
-[View my contribution log](https://beta.aviyel.com/user/afk-z10/github-readme)
+[View my contribution log](https://beta.aviyel.com/user/afk-z10/1971/rewards)
 
 ![AFK test 1 rewards](https://aviyel-share-image.vercel.app/api/afk-z10/1971)
 
