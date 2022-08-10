@@ -17,7 +17,6 @@ test abc
 
 ![cosmichouse rewards](https://aviyel-share-image.vercel.app/api/afk-z10/110)
 
----
 
 ### AFK test 0 - Level 2
 
@@ -25,7 +24,6 @@ test abc
 
 ![AFK test 0 rewards](https://aviyel-share-image.vercel.app/api/afk-z10/1969)
 
----
 
 ### AFK test 1 - Level 5
 
