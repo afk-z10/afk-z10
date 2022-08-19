@@ -3,7 +3,6 @@ Hi, I'm a big fan of open source. I love making tools to improve developer exper
 
 Test 123
 
-![Test Image](https://aviyel-share-image-git-svg-hadeeb.vercel.app/api?u=afk-z10&p=110)
 
 ## Writings
 
@@ -16,19 +15,19 @@ Test 123
 
 [View my contribution log](https://beta.aviyel.com/user/afk-z10/110/rewards)
 
-![cosmichouse rewards](https://beta.aviyel.com/assets/uploads/rewards/share/user/1340/readme/110.png)
+![cosmichouse rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/api?u=afk-z10&p=110)
 
 ### AFK test 0 - Level 5
 
 [View my contribution log](https://beta.aviyel.com/user/afk-z10/1969/rewards)
 
-![AFK test 0 rewards](https://beta.aviyel.com/assets/uploads/rewards/share/user/1340/readme/1969.png)
+![AFK test 0 rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/api?u=afk-z10&p=1969)
 
 ### AFK test 1 - Level 5
 
 [View my contribution log](https://beta.aviyel.com/user/afk-z10/1971/rewards)
 
-![AFK test 1 rewards](https://beta.aviyel.com/assets/uploads/rewards/share/user/1340/readme/1971.png)
+![AFK test 1 rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/api?u=afk-z10&p=1971)
 
 ## Events
 
