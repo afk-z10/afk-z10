@@ -15,19 +15,19 @@ Test 123
 
 [View my contribution log](https://beta.aviyel.com/user/afk-z10/110/rewards?log)
 
-![cosmichouse rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/api?u=afk-z10&p=110)
+![cosmichouse rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/afk-z10/110/readme.svg)
 
 ### AFK test 0 - Level 5
 
 [View my contribution log](https://beta.aviyel.com/user/afk-z10/1969/rewards?log)
 
-![AFK test 0 rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/api?u=afk-z10&p=1969)
+![AFK test 0 rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/afk-z10/1969/readme.svg)
 
 ### AFK test 1 - Level 5
 
 [View my contribution log](https://beta.aviyel.com/user/afk-z10/1971/rewards?log)
 
-![AFK test 1 rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/api?u=afk-z10&p=1971)
+![AFK test 1 rewards](https://aviyel-share-image-git-svg-hadeeb.vercel.app/afk-z10/1971/readme.svg)
 
 ## Events
 
