@@ -11,6 +11,11 @@ Test 123
 
 ## Achievements
 
+Image from cloudflare worker
+![cosmichouse rewards](https://rewards-image-worker.hadeeb.workers.dev/afk-z10/110/readme.svg)
+
+Following images are from vercel edge with cdn cache
+
 ### cosmichouse - Level 5
 
 [View my contribution log](https://beta.aviyel.com/user/afk-z10/110/rewards?log)
